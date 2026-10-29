@@ -1,6 +1,6 @@
 # AdBlock Traffic Tracker
 
-A lightweight, high-performance WordPress plugin designed to detect AdBlock users, track unique sessions and pageviews, and send automated daily email reports to the site administrator—all without relying on external third-party services.
+A lightweight, high-performance WordPress plugin designed to detect AdBlock users, track unique sessions and pageviews, and send automated daily email reports to the site administrator - all without relying on external third-party services.
 
 ## Features
 
